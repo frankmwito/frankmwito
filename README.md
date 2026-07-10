@@ -3,17 +3,10 @@
 # Hi, I'm Franklyne Muchui 👋
 ### QA Automation Engineer · SDET · Test Lead
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/franklyne-muchui-7337b2289/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="https://franklynemuchui.netlify.app/">
-    <img src="https://img.shields.io/badge/Portfolio-111827?style=for-the-badge&logo=firefox&logoColor=white"/>
-  </a>
-  <a href="[https://github.com/frankmwito/resume/raw/main/Franklyne_Muchui_CV.pdf](https://github.com/frankmwito/resume/blob/main/Franklyne_Muchui_CV.pdf)">
-    <img src="https://img.shields.io/badge/Download_CV-PDF-1F3864?style=for-the-badge&logo=adobeacrobatreader&logoColor=white"/>
-  </a>
-</p>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/franklyne-muchui-7337b2289/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-111827?style=for-the-badge&logo=vercel&logoColor=white)](https://franklynemuchui.netlify.app/)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/frankmwito)
+
 
 </div>
 
