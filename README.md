@@ -6,6 +6,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/franklyne-muchui-7337b2289/)
 [![Portfolio](https://img.shields.io/badge/Portfolio-111827?style=for-the-badge&logo=vercel&logoColor=white)](https://franklynemuchui.netlify.app/)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/frankmwito)
+[![Download CV](https://img.shields.io/badge/Download_CV-PDF-1F3864?style=for-the-badge&logo=adobeacrobatreader&logoColor=white)](https://github.com/frankmwito/resume/blob/main/Franklyne_Muchui_CV.pdf)
 
 
 </div>
