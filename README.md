@@ -72,13 +72,16 @@ I don't just find bugs — I build the infrastructure that catches them before t
 
 ### 📊 GitHub Stats
 
-<div align="center">
-
-![Franklyne's GitHub Stats](https://github-readme-stats.vercel.app/api?username=frankmwito&show_icons=true&theme=github_dark&hide_border=true&count_private=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=frankmwito&layout=compact&theme=github_dark&hide_border=true)
-
-</div>
+<p align="center">
+  <img src="https://img.shields.io/badge/Repositories-97-2088FF?style=for-the-badge&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Primary_Language-Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Focus-Test_Automation-43B02A?style=for-the-badge&logo=selenium&logoColor=white"/>
+</p>
+<p align="center">
+  <img src="https://img.shields.io/badge/ISTQB-CTAL--TAE_Certified-0052CC?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Hackathon-1st_Runner--Up_2024-FFD700?style=for-the-badge&logoColor=black"/>
+  <img src="https://img.shields.io/badge/UAT_Pass_Rate-100%25-22c55e?style=for-the-badge"/>
+</p>
 
 ---
 
